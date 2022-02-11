@@ -1,5 +1,7 @@
 ## Olá, Sou Jhonattan 😄 Sou Desenvolvedor Front-end focado na construção de aplicações SPA com ReactJs	(Typescript	|	Javascript	)	e aplicações serveless utilizando NextJs|NuxtJs!
 
+## Hi, I'm Jhonattan 😄 I'm a Front-end Developer focused on building SPA applications with ReactJs (Typescript | Javascript ) and serveless applications using NextJs|NuxtJs!
+
 <div align="center">
   <a href="https://github.com/jhonattan-farias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonattan-farias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
