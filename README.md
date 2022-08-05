@@ -1,4 +1,4 @@
-## Olá, Sou Jhonattan 😄 Sou Desenvolvedor Front-end focado na construção de aplicações SPA com ReactJs	(Typescript	|	Javascript	)	e aplicações serveless utilizando NextJs|NuxtJs!
+## Olá, Sou Jhonattan 😄 Sou Desenvolvedor Front-end focado na construção de aplicações SPA com ReactJs	(Typescript	|	Javascript	)	e aplicações serveless utilizando NextJs!
 
 ## Hi, I'm Jhonattan 😄 I'm a Front-end Developer focused on building SPA applications with ReactJs (Typescript | Javascript ) and serveless applications using NextJs|NuxtJs!
 
