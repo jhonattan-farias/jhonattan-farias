@@ -1,6 +1,8 @@
 ## Olá, Sou Jhonattan 😄 Sou Desenvolvedor FullStack focado na construção de aplicações SPA com ReactJs	(Typescript	|	Javascript	)	e aplicações serveless utilizando NextJs!
 
-## Hi, I'm Jhonattan 😄 I'm a FullStack Engineer focused on building SPA applications with ReactJs (Typescript | Javascript ) and serveless applications using NextJs|NuxtJs!
+## Hi, I'm Jhonattan 😄 I'm a FullStack Engineer focused on building SPA applications with ReactJs (Typescript | Javascript ) and serveless applications using NextJs!
+
+### Amo jogar, compor musicas para jogos, tocar um violão! e codar!!!!!
 
 <div align="center">
   <a href="https://github.com/jhonattan-farias">
