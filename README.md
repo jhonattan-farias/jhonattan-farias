@@ -2,6 +2,7 @@
 ### Amo jogar, compor musicas para jogos, tocar um violão! e codar!!!!!
 
 ## Hi, I'm Jhonattan 😄 I'm a FullStack Engineer focused on building SPA applications with ReactJs (Typescript | Javascript ) and serveless applications using NextJs!
+### I love playing games, composing music for games, playing guitar! and coding!!!!!
 
 <div align="center">
   <a href="https://github.com/jhonattan-farias">
